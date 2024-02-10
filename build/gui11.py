@@ -18,7 +18,7 @@ ASSETS_PATH = OUTPUT_PATH / Path(r"C:\Users\RUPAM DAS\Desktop\CLLG\build\assets\
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "rupamdas",
+    "password": "yourpassword",
     "database": "hospitalmanagement"
 }
 
