@@ -23,7 +23,7 @@ def display_prescription():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="rupamdas",
+        password="your_password",
         database="hospitalmanagement"
     )
     cursor = conn.cursor()
