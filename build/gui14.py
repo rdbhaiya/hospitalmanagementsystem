@@ -25,7 +25,7 @@ def clear_entry_fields():
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "rupamdas",
+    "password": "yourpassword",
     "database": "hospitalmanagement"
 }
 
