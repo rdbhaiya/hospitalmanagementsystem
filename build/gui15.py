@@ -26,7 +26,7 @@ def delete_employee_details():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="rupamdas",
+        password="yourpassword",
         database="hospitalmanagement"
     )
     cursor = conn.cursor()
